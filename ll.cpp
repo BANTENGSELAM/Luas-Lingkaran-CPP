@@ -8,7 +8,7 @@ int r;
 //fungsi dan prosedur untuk program
 void input (){
     cout << "Masukan Jari-Jari Lingkaran : ";
-    cin >> r;
+    
 }
 // float untuk operasi
 float luaslingkaran (int r){
