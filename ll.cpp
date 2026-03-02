@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// deklarasi
+// deklarasi secara global
 float a = 3.14159;
 int r;
 
