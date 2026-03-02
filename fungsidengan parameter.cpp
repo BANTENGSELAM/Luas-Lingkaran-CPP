@@ -10,3 +10,13 @@ void input(){
     cout <<"Masukan Lebar :";
     cin >> lebar;
 }
+int luaspersegi(){
+    return panjang*lebar;
+}
+void output (){
+    cout<< "Hasilnya :" << luaspersegi();
+}
+int main (){ // mulai
+    input();
+    output();
+}// selesai
