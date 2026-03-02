@@ -13,7 +13,7 @@ void input (){
 float luaslingkaran (int r){
     return r*r*3.14159;
 }
-
+// void untuk output
 void output(){
     cout << "Hasilnya : " <<luaslingkaran(r) << endl;
 }
